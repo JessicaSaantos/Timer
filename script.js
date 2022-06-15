@@ -14,7 +14,7 @@ function twoDigits (digit){
 
 function start (){
    time()
-   interval = setInterval(time, 10)
+   interval = setInterval(time, 1000)
 }
 
 function pause(){
