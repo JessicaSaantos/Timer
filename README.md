@@ -13,6 +13,10 @@
 
  ## Demonstração: 
 🎥📷
+![cronometro](https://user-images.githubusercontent.com/98659450/177668644-fd0ab926-f28c-4815-b82e-765e82791619.gif)
+
+***
+
 
 
 ## Tecnologias Utilizadas:
