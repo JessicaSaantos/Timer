@@ -13,11 +13,12 @@
 
  ## Demonstração: 
 🎥📷
+ #### Segundos
 ![cronometro](https://user-images.githubusercontent.com/98659450/177668644-fd0ab926-f28c-4815-b82e-765e82791619.gif)
 
 ***
-
-
+#### Minutos
+![cronometro2](https://user-images.githubusercontent.com/98659450/177669194-245a2883-5421-429c-8d59-2ff0566205cb.gif)
 
 ## Tecnologias Utilizadas:
 
