@@ -22,6 +22,7 @@
 
 ## Tecnologias Utilizadas:
 
+![GitHub top language](https://img.shields.io/github/languages/top/JessicaSaantos/Timer)
 
 Marcação | Estilização | Programção
 ---|---|---
